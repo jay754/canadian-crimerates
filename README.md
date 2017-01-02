@@ -1,8 +1,12 @@
 # canadian-crimerates
 
-  This project was to show people the Canadian homicides rates in 2015 by province. There are 2 ways this is done, first is done  $ through a total number of murders that took place in each province last year. Image one bellow shows this data in the form of a pie chart.
+  <span style="background-color: #FFFF00">
+
+  This project was to show people the Canadian homicides rates in 2015 by province. There are 2 ways this is done, first is done through a total number of murders that took place in each province last year. Image one bellow shows this data in the form of a pie chart.
 
   The second way is through breaking each provinces' homicide rate down per every 100000 people. For example in Ontario last year  we had 1.26 people die for every 100000 compared to Alberta which had 3.17 people murdered for every 100000. Finally, overall   homicides rates in Canada was 1.68 per every thousand which makes Canada one of the safer places in the world, but compared to other developed nations in Europe it is relatively high.
+
+  </span>
 
 ---
 
@@ -28,4 +32,4 @@
  1. [Atlantic Provinces (NFL, NB,  PEI, NS)](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50a-eng.htm)
  2. [Canada, Quebec, and Ontario](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50a-eng.htm)
  3. [Prairie Provinces (Man, Alb, Sas, and BC)](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50c-eng.htm)
- 4. [Territories(YT, NWT, NW)](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50d-eng.htm)
+ 4. [Territories (YT, NWT, NW)](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50d-eng.htm)
