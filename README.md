@@ -1,17 +1,18 @@
 # canadian-crimerates
 
   ```
-  This project is about Canadian homicides rates in 2015 by province.
-  There are 2 ways this is done, first is done through a total number of murders that
-  took place in each province last year. Image one bellow shows
-  this data in the form of a pie chart.
+    This project is about Canadian homicides rates in 2015 by province.
+  There are 2 ways this is done, first is done through a total number
+  of murders that took place in each province last year. Image one bellow
+  shows this data in the form of a pie chart.
 
-  The second way is through breaking down each provinces' homicide
-  rate per every 100000 people. For example in Ontario last year we had 1.26 people
-  murdered for every 100000 compared to Alberta which had 3.17 people
-  murdered for every 100000. Finally, overall homicides rates in Canada was 1.68 per every 100000
-  which makes Canada one of the safer places in the world.
-  But compared to other developed nations in Europe it is relatively high.
+    The second way is through breaking down each provinces' homicide
+  rate per every 100000 people. For example in Ontario last year we had
+  1.26 people murdered for every 100000 compared to Alberta which had
+  3.17 people murdered for every 100000. Finally, overall homicides rates
+  in Canada was 1.68 per every 100000 which makes Canada one of the safer
+  places in the world. But compared to other developed nations in Europe
+  it is relatively high.
   ```
 
 ---
