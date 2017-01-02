@@ -6,7 +6,7 @@ Main.js
 
 $(function(){
 
-  function getData(callback){
+  function getCrimeData(callback){
     $.ajax({
       url: "2015/crime_stats_canada.json",
       type: "GET",
@@ -14,15 +14,11 @@ $(function(){
       success: function(data) {
         callback(data);
       },
-      error: function(xhr, ajaxOptions, thrownError){
-        console.log(xhr.status);
-        console.log(thrownError);
-      }
     });
   }
 
-  function generatePiegraph(){
-    getData(function(results){
+  function drawPiegraph(){
+    getCrimeData(function(results){
       var data = results[4];
       var content = [];
 
@@ -31,7 +27,7 @@ $(function(){
         if(key !== "Title" && key !== "Canada"){
           content.push({
             "label":key,
-            "value":value,
+            "value":value
           });
         }
       }
@@ -90,5 +86,5 @@ $(function(){
     });
   }
 
-  generatePiegraph();
+  drawPiegraph();
 });
