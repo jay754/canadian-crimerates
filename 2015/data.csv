@@ -1,2 +1,14 @@
-Title,Canada,N.L.,P.E.I.,N.S.,N.B.,Man.,Sask.,Alta.,B.C.,Que.,Ont.,Y.T.,N.W.T.,Nvt.
-Homicide[1],1.68,0.57,0.68,1.27,1.46,3.63,3.79,3.17,2.03,0.93,1.26,2.67,11.34,5.42
+Province,Homicides
+N.L.,0.57
+P.E.I.,0.68
+N.S.,1.27
+N.B.,1.46
+Man.,3.63
+Sask.,3.79
+Alta.,3.17
+B.C.,2.03
+Que.,0.93
+Ont.,1.26
+Y.T.,2.67
+N.W.T.,11.34
+Nvt.,5.42
