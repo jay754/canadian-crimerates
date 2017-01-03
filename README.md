@@ -5,7 +5,7 @@
   of murders that took place in each province last year. Image one bellow
   shows this data in the form of a pie chart.
 
-    The second way is through breaking down each provinces' homicide
+  The second way is through breaking down each provinces' homicide
   rate per every 100000 people. For example in Ontario last year we had
   1.26 people murdered for every 100000 compared to Alberta which had
   3.17 people murdered for every 100000. Finally, overall homicides rates
