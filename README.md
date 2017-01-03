@@ -1,7 +1,6 @@
 # canadian-crimerates
 
-  ```
-    This project is about Canadian homicides rates in 2015 by province.
+  This project is about Canadian homicides rates in 2015 by province.
   There are 2 ways this is done, first is done through a total number
   of murders that took place in each province last year. Image one bellow
   shows this data in the form of a pie chart.
@@ -13,7 +12,6 @@
   in Canada was 1.68 per every 100000 which makes Canada one of the safer
   places in the world. But compared to other developed nations in Europe
   it is relatively high.
-  ```
 
 ---
 
