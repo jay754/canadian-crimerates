@@ -34,7 +34,7 @@
 
 ### Data:
 
- 1. [Atlantic Provinces (NFL, NB,  PEI, NS)](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50a-eng.htm)
- 2. [Canada, Quebec, and Ontario](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50a-eng.htm)
- 3. [Prairie Provinces (Man, Alb, Sas, and BC)](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50c-eng.htm)
+ 1. [Atlantic Provinces (NFL, NB, PEI, NS)](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50a-eng.htm)
+ 2. [Canada, Quebec, and Ontario](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50b-eng.htm)
+ 3. [Prairie Provinces (MAN, ALB, SAS, and BC)](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50c-eng.htm)
  4. [Territories (YT, NWT, NW)](http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/legal50d-eng.htm)
